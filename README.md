@@ -1,8 +1,10 @@
 # django_lab2template
 
-W tym laboratorium będziesz ćwiczyć tworzenie modeli Django z relacjami, zapisywanie obiektów w bazach danych, zapytania, aktualizowanie i usuwanie obiektów.
+Tworzenie modeli Django z relacjami, zapisywanie obiektów w bazach danych, zapytania, aktualizowanie i usuwanie obiektów.
 
-Cele nauki
+
 Tworzenie modeli Django z relacjami jeden-do-jednego, jeden-do-wielu i wiele-do-wielu
 Zapytania do obiektów modelu z użyciem filtrów
 Usuwanie i aktualizowanie obiektów
+
+![image](https://github.com/user-attachments/assets/a580ab97-9075-45c5-ad07-36a4ce113d55)
